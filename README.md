@@ -1,4 +1,4 @@
-# micrite <a href="https://github.com/selkamand/nf-micrite"><img src="figures/logo.png" alt="micrite website" align="right" height="138"/></a>
+# micrite <a href="https://github.com/selkamand/nf-micrite"><img src="figures/micrite.png" alt="micrite website" align="right" height="138"/></a>
 
 A nextflow workflow for detection of microbial genomes from cancer whole-genome-sequenced bams.
 
